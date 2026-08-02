@@ -9,7 +9,8 @@
 
 # Requirements
 
-- `luaPNG` must be available and loadable as `luaPNG.init`.
+- [luaPNG](https://github.com/zeykatecool/luaPNG) must be available and loadable as `luaPNG.init`.
+> This library does not perform any compression. Output files are uncompressed PNGs.
 
 # Usage
 
