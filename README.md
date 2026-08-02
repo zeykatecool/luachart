@@ -5,7 +5,7 @@
 - Supports line, bar, scatter, histogram, and heatmap chart types.
 - Provides built-in dark and light themes.
 - Supports multiple data series per chart with automatic color assignment.
-- Check the `examples/output` for rendered images.
+- Check the [examples/output](https://github.com/zeykatecool/luachart/tree/main/examples/output) for rendered images.
 
 # Requirements
 
